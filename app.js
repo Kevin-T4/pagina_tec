@@ -1,6 +1,6 @@
 /**
  * ====================================================================
- * SERVICIO TÉCNICO EL KEVIN Y EL BRAYAN
+ * SERVICIO TeCNICO EL KEVIN Y EL BRAYAN
  * Lógica de Autenticación, Validación y Panel de Cliente
  * ====================================================================
  */
